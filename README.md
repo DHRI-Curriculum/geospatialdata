@@ -1,47 +1,60 @@
-# Geospatial Data 
-
-## What is geospatial data
-* ["Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us.](https://www.smu.edu/libraries/fondren/services/gis) 
-    * Diana Stuart Sinton, Cornell University & Executive Director of the University Consortium for Geographic Information Science (UCGIS)
 
 
+# Digital Projects, Research and Tools
 
-* Instructors/facilitators : Jessie Zarazaga
-* Helpers: Rafia Mirza
+We have been discussing different aspects and stages of digital scholarship projects. In this session we will discuss how you can find and assess tools.  
+
+## Required before session
+**Read the following post.**
+* We will use this a a frame for our discussion
+* ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
+* How does the author discuss communities of practice in DH? How have they changed for her? What is your experience with them? What do you think about the ‘eternal September’ metaphor? *What does it mean to practice as digital humanist?* 
 
 
-In this session we will:
-*Learn to sign on to arcGIS online
-Learn to make an online map
-Learn to make a storymap with different data types
-Learn to bring the other data plus the spatial data together
-Talk about other things that could be done with GIS, including analysis and how to learn that*
+## Broadly, you may have goals around: 
+### Sources: What data or other materials do you want to analyze?
+* Digital Humanities and data
+* Acquiring, cleaning, and creating data
+* Identifying the differences between unstructured, semi-structured, and structured data.
+* Distinguishing between different file types, their definitions, and applications.
+* Applying intellectual property rights to the downloading and sharing of data.
+* Practicing different ways of downloading or creating data.
 
-[Next >>>](sections/geospatialdata.md)  
+### Processing: How can these resources/materials be analyzed or prepared for analysis?
+* The Command Line (Python)
+* Working with Tools (openrefine, Voyant)
+
+### Presenting: How do you want to share your sources and your findings?
+
+## Goals: What is it you want to do?
+* Where are you in the process? 
+* Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topics, training, partners, tools, programming, etc.)
+
+* In this example from Programming Historian, you can see how lessons fall into broad phases or categories. 
+[![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
+
+
+
+[Next >>>](sections/choose.md)  
 ----
 
 What you will find in this Repository
 
 -----
 
-[Geospatial Data](sections/geospatialdata.md)  
+[Choose a Tool](sections/choose.md)  
 
-[Storymaps](sections/storymaps.md)
+[Choose a Tool: Geospatial data](sections/geodata.md)
 
 [Follow up](sections/continue.md)
 
 
-Related Repositories:
-* [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
-* [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
 
 -----
 
-Session Leaders: Jessie Zarazaga
 
-Partially based on previous work by GCDI staff: [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
-
-Written by GCDI staff & Rafia Mirza.
+Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
